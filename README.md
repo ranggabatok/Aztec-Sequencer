@@ -6,7 +6,7 @@ Langkah-langkah menjalankan Node Aztec-Sequencer dan mendapatkan Role Apprentice
 ### Minimal Spesifikasi
 | RAM       | CPU         | Disk         |
 |-----------|-------------|--------------|
-| `8–16 GB` | `4–9 cores` | `100+ GB SSD` |
+| `8 GB` | `4 cores` | `100+ GB SSD` |
 ---
 
 ### 1. Install Dependecies
