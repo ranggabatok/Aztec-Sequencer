@@ -157,6 +157,7 @@ http://localhost:8080 | jq -r ".result"
 - Ganti Adress dengan Adress Kita
 - Ganti Block Number dengan Block yang di simpan tadi
 - Ganti Proof dengan Proof yang di simpan tadi
+
 **Selamat kalian udah berhasil menjalankan Node Aztec-Sequencer dan dapat Role Apprentice**
 
 ### TERIMA KASIH UNTUK RPC GRATISNYA DARI CODEBLOCKLABS.COM
